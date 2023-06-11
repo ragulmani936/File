@@ -85,6 +85,7 @@ public class program
 
 ## Output:
 
+![img1](https://github.com/ragulmani936/File/assets/94881918/25d51c1b-d210-4169-abf4-506789f569ca)
 
 
 ## Result:
